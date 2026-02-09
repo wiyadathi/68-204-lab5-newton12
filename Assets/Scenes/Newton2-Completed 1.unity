@@ -202,7 +202,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 0}
+      - m_Target: {fileID: 1584732018}
         m_TargetAssemblyTypeName: AddForce, Assembly-CSharp
         m_MethodName: SetAcc350
         m_Mode: 1
@@ -900,7 +900,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 0}
+      - m_Target: {fileID: 1584732018}
         m_TargetAssemblyTypeName: AddForce, Assembly-CSharp
         m_MethodName: SetAcc300
         m_Mode: 1
@@ -1680,7 +1680,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 0}
+      - m_Target: {fileID: 1584732018}
         m_TargetAssemblyTypeName: AddForce, Assembly-CSharp
         m_MethodName: SetAcc250
         m_Mode: 1
